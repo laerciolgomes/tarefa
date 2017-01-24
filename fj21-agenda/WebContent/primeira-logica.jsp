@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<hr />
-<a href="adiciona-contato.jsp"> Adicionar</a> | 
-<a href="mvc?logica=ListaContatosLogic"> Listar</a> |
-<br /> 
-Copyright 2010 - Todos os direitos reservados
-
+<h1>Pagina da nossa primeira logica</h1>
 </body>
 </html>
