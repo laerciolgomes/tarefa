@@ -13,6 +13,7 @@
 <table>
 
 <%
+
 ContatoDao dao = new ContatoDao();
 List<Contato> contatos = dao.getLista();
 for (Contato contato : contatos) {
